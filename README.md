@@ -1,7 +1,7 @@
 # Vision Studio and A.I
 
  We Know that the A.I is The Future so, I go to searching about more informations
- i am making a Personal Project with C# WebApi and  it's about Pet adoptionand and I need to verify if the image really contains a dog and here comes Vision Studio
+ i am making a Personal Project with C# WebApi and  it's about [Pet adoptionand](https://github.com/Gabrielbprado/Adopt-Pet.Api) and I need to verify if the image really contains a dog and here comes Vision Studio
 
 # Images for Test
 
